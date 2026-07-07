@@ -220,20 +220,6 @@ uvicorn app.main:app --reload
 
 ✅ Placement-ready portfolio project
 
----
-
-# 📷 Screenshots
-
-> Add screenshots of the following pages:
-
-* Login Page
-* Manager Dashboard
-* Team Member Dashboard
-* Analytics Dashboard
-* Resume Builder
-* Chat System
-* Project Tracking
-* Leaderboard
 
 ---
 
@@ -260,6 +246,10 @@ uvicorn app.main:app --reload
 # 📄 License
 
 This project is licensed under the **MIT License**.
+
+---
+
+Live Demo -- team-track-pro-team-performance-tra-two.vercel.app
 
 ---
 
